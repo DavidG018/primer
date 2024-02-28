@@ -1,0 +1,23 @@
+* {
+    padding: 0;
+    box-sizing: border-box;
+    display: flexbox;
+}
+
+h1 {
+    text-align: center;
+    color: aqua;
+}
+ 
+p {
+    color: rgb(186, 147, 96);
+    text-align: center;
+    background-color: black;
+}
+
+h2 {
+    text-align: center;
+    background-color: blueviolet;
+    border-radius: 25PX;
+    color: rgb(255, 255, 255);
+}
